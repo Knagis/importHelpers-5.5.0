@@ -6,6 +6,9 @@
   "dependencies": {
     "tslib": "^2.6.2"
   },
+  "scripts": {
+    "ts": "cd packages/foo && tsc -b -f"
+  },
   "devDependencies": {
     "typescript": "5.5.0-beta"
   }

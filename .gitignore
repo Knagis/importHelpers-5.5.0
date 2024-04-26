@@ -1,4 +1,5 @@
-tsconfig.tsbuildinfo
+*.tsbuildinfo
 node_modules
 .history
-src/*.js
+*.js
+lib/
